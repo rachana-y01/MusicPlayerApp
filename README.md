@@ -56,8 +56,11 @@ MusicPlayerApp/
 ---
 
 ## 📸 Screenshots
+### 🎵 Home Screen
 ![home](https://github.com/user-attachments/assets/f4deb90c-a0bf-4eb6-a191-585f05caf64e)
+### ▶️ Playing Song
 ![img3](https://github.com/user-attachments/assets/7303fbb8-0e11-4d34-96a0-c20c17331360)
+### ❤️ Favorite Feature
 ![img1](https://github.com/user-attachments/assets/410160be-8f3e-4075-aa57-27fcc4b7e451)
 
 
